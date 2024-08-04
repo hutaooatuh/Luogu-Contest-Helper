@@ -1,2 +1,19 @@
-# Luogu-Contest-Helper
-Remind user to participate contest on Luogu.
+# Luogu Contest Helper
+
+## 介绍
+
+老是忘记打比赛？试试Luogu Contest Helper！
+
+启动Luogu Contest Helper后，程序将自动爬取比赛列表，在有新比赛时提醒用户，并在比赛开始时提醒用户。
+
+当您想要关闭此程序时，您需要手动在任务管理器中关闭。
+
+此外，如果程序的界面模糊，请尝试在资源管理器中找到程序位置，右键，属性，兼容性，更改高 DPI 设置，勾选“使用设置修复此程序的缩放问题，而不是……”以及“替代高 DPI 缩放行为”，确定。
+
+## 下载
+
+下载上方的 `lch-1.0.0.zip` 文件，也可以通过分支下载。
+
+## 开机启动
+
+请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
