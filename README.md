@@ -2,9 +2,9 @@
 
 ## 介绍
 
-老是忘记打比赛？试试Luogu Contest Helper！
+老是忘记打比赛？试试 Luogu Contest Helper！
 
-启动Luogu Contest Helper后，程序将自动爬取比赛列表，在有新比赛时提醒用户，并在比赛开始时提醒用户。
+启动 Luogu Contest Helper 后，程序将自动爬取比赛列表，在有新比赛时提醒用户，并在比赛开始时提醒用户。
 
 当您想要关闭此程序时，您需要手动在任务管理器中关闭。
 
